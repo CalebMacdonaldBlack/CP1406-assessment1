@@ -1,6 +1,6 @@
 # CP1406 - Assignment 1 - Project Plan - CossiePlay
 ##Name: Caleb Macdonald Black
-##Login: JC341205
+##Login: JC-341205
 ##Goals
   The indended purpose of this website is to increase the attendence of young adults and highschoolers as cossieplay events and parties as well as increasing the amount of orders placed for new costumes.
 

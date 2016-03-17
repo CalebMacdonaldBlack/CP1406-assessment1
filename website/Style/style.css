@@ -1,0 +1,26 @@
+header {
+    min-width: 600px;
+    background-color: red;
+    margin: 20px;
+}
+
+.page-content {
+    min-width: 1000px;
+    overflow: auto;
+}
+
+.nav {
+    width: 10%;
+    min-width: 140px;
+    margin: 20px;
+    background-color: aqua;
+    float: left;
+}
+
+section {
+    background-color: yellow;
+    float: left;
+    margin: 20px;
+    width: 60%;
+    min-width: 200px;
+}
