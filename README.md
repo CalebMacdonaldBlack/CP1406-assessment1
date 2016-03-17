@@ -11,12 +11,8 @@ We will evaluate our success by measuring sales and orders for costumes before t
 Target Audience
 The target audience for this website will be young adults and teenagers. The target audience will have interests in one or more of the following categories such as costume play, roleplaying, anime, manga,comic books, cartoons, video games and tv series.
 
-##Site Flowchart (Structure Diagram)
-  * Homepage
-  * contact
-  * about
-  * events
-  * costumes for sale
-  * costumes
+##Flowchart
+
+![supposed to be a flowchart here][https://github.com/GigabyteDX/CP1406-assessment1/blob/master/Flowchart.png "Cossieplay"]
 
 [GitHub Repository](https://github.com/GigabyteDX/CP1406-assessment1.git)
