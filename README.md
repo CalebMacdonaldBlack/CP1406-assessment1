@@ -13,6 +13,6 @@ The target audience for this website will be young adults and teenagers. The tar
 
 ##Flowchart
 
-![supposed to be a flowchart here][https://github.com/GigabyteDX/CP1406-assessment1/blob/master/Flowchart.png "Cossieplay"]
+![supposed to be a flowchart here](https://github.com/GigabyteDX/CP1406-assessment1/blob/master/Flowchart.png "Cossieplay")
 
 [GitHub Repository](https://github.com/GigabyteDX/CP1406-assessment1.git)
