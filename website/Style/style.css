@@ -8,7 +8,7 @@ header {
     width: 100%;
     min-width: 800px;
     overflow: auto;
-    background-color: green;
+    background-color: pink;
 }
 
 .nav {
@@ -52,4 +52,28 @@ section {
     margin: 20px;
     width: 70%;
     min-width: 200px;
+}
+
+.register {
+    background-color: #FFA733;
+    color: white;
+    font-size: 20px;
+    padding: 16px 32px;
+    border-radius: 6px;
+    border-top: 1px solid #D68F31;
+    border-left: 1px solid #D68F31;
+    border-bottom: 3px solid #D68F31;
+    border-right: 3px solid #D68F31;
+    outline: none;  
+}
+
+.register:active{
+    background-color: #D68F31;
+    color: white;
+    font-size: 20px;
+    padding: 16px 32px;
+    border: 2px solid #D68F31;
+    border-radius: 6px;
+    outline: none;
+
 }
