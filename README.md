@@ -1,6 +1,4 @@
-# CP1406-assessment1
-
-##CP1406 - Assignment 1 - Project Plan - CossiePlay
+# CP1406 - Assignment 1 - Project Plan - CossiePlay
 ##Name: Caleb Macdonald Black
 ##Login: JC341205
 ##Goals
