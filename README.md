@@ -2,14 +2,13 @@
 ##Name: Caleb Macdonald Black
 ##Login: JC341205
 ##Goals
-  * Increase order placed for new costumes
-  *Increase sales of used costumes
-  * Increase attendance at cosplay events
+  The indended purpose of this website is to increase the attendence of young adults and highschoolers as cossieplay events and parties as well as increasing the amount of orders placed for new costumes.
 
 ##Success Evaluation
-We will evaluate our success by measuring sales and orders for costumes before the website was created with current sales and orders. We will also evaluate our success by comparing the attendance before and after deploying the website
-Target Audience
-The target audience for this website will be young adults and teenagers. The target audience will have interests in one or more of the following categories such as costume play, roleplaying, anime, manga,comic books, cartoons, video games and tv series.
+A current and previous history of addendence and ages will be recorded and compared with future attendence and ages. This will allow us to determine whether or not the website is accomplishing its goal of increasing the attendence of younger members at its events and parties. The current and previous history of costume orders will be recorded and compared with future orders aswell to determine if there has been an increase since the website was deployed.
+
+##Target Audience
+The target audience for this website will be young adults and highschoolers. The target audience will have interests in one or more of the following categories such as costume play, roleplaying, anime, manga,comic books, cartoons, video games and tv series. This audience will appeal to this website by being able to relate to the content and media. The website will have fun and exciting themes as well as social aspects to get the target audience more involved in cosplaying. 
 
 ##Flowchart
 
