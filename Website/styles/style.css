@@ -14,30 +14,29 @@ body {
 .page-content {
     width: 80%;
     height: 100%;
-    min-width: 800px;
+    min-width: 950px;
     overflow: hidden;
     margin: 5px;
 }
 
 .nav {
-    width: 10%;
-    min-width: 200px;
+    width: 170px;
     margin: 20px;
     background-color: #d9d9d9;
-    border-radius: 6px;
+    border-radius: 3px;
     float: left;
     box-shadow: 5px 5px 2px black;
 }
 
 .nav ul li a:link,
-a:visited {
+.nav ul li a:visited {
     color: black;
     background-color: #bfbfbf;
     border-top: 1px solid black;
     border-left: 1px solid black;
     border-bottom: 3px solid black;
     border-right: 3px solid black;
-    border-radius: 6px;
+    border-radius: 4px;
     font-family: "Arial Black", Gadget, sans-serif;
     text-decoration: none;
     display: block;
@@ -45,7 +44,7 @@ a:visited {
 }
 
 .nav ul li a:hover,
-a:active {
+.nav ul li a:active {
     font-family: "Arial Black", Gadget, sans-serif;
     color: black;
     background-color: #f2f2f2;
@@ -161,17 +160,16 @@ section {
     border: 3px solid black;
     border-radius: 6px;
     box-shadow: 5px 5px 2px black;
+    text-align: center;
 }
 
 .content-panel h1 {
     font-size: 30px;
-    text-align: center;
     font-family: "Arial Black", Geneva, sans-serif;
 }
 
 .content-panel h2 {
     font-size: 20px;
-    text-align: center;
     font-family: Vandana, Geneva, sans-serif;
 }
 
@@ -179,4 +177,39 @@ section {
     font-family: Vandana, Geneva, sans-serif;
     font-size: 16px;
     margin-left: 20px;
+}
+
+.about-us-img {
+    height: 250px;
+    outline: none;
+    display: block;
+    margin: 30px auto;
+    border: 3px solid black;
+}
+
+.email-link{
+    font-family: Vandana, Geneva, sans-serif;
+    color:blue;
+}
+
+.center-list {
+    display: block;
+    margin: 30px auto;
+    font-family: Vandana, Geneva, sans-serif;
+    width: 300px;
+    text-align: left;
+}
+
+.align-left {
+    text-align: left;
+    padding-left: 15px;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.image-container img {
+    height: 270px;
+    margin: 15px;
 }
