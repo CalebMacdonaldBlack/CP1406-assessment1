@@ -5,8 +5,8 @@ header {
 }
 
 body {
-    background-image: url("../assets/background.png");
-    background-color: #ffbf80;
+    background-image: url("../image/background.png");
+    background-color: #ffeecc;
     background-position: right -300px top;
     background-repeat: no-repeat;
 }
@@ -22,7 +22,7 @@ body {
     width: 10%;
     min-width: 200px;
     margin: 20px;
-    background-color: #5C0E0E;
+    background-color: #80ff80;
     border-radius: 6px;
     float: left;
     box-shadow: 5px 5px 2px black;
@@ -100,7 +100,7 @@ section {
 }
 
 .logo-container {
-    background-color: #5C0E0E;
+    background-color: #80ff80;
     height: 120px;
     width: 60%;
     float: left;
