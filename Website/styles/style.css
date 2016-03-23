@@ -6,7 +6,7 @@ header {
 
 body {
     background-image: url("../image/background.png");
-    background-color: #ffeecc;
+    background-color: #262626;
     background-position: right -300px top;
     background-repeat: no-repeat;
 }
@@ -16,13 +16,14 @@ body {
     height: 100%;
     min-width: 800px;
     overflow: hidden;
+    margin: 5px;
 }
 
 .nav {
     width: 10%;
     min-width: 200px;
     margin: 20px;
-    background-color: #80ff80;
+    background-color: #d9d9d9;
     border-radius: 6px;
     float: left;
     box-shadow: 5px 5px 2px black;
@@ -31,11 +32,11 @@ body {
 .nav ul li a:link,
 a:visited {
     color: black;
-    background-color: #E3A209;
-    border-top: 1px solid #D13D3D;
-    border-left: 1px solid #D13D3D;
-    border-bottom: 3px solid #D13D3D;
-    border-right: 3px solid #D13D3D;
+    background-color: #bfbfbf;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
     border-radius: 6px;
     font-family: "Arial Black", Gadget, sans-serif;
     text-decoration: none;
@@ -47,13 +48,13 @@ a:visited {
 a:active {
     font-family: "Arial Black", Gadget, sans-serif;
     color: black;
-    background-color: #e67300;
+    background-color: #f2f2f2;
     text-decoration: none;
     display: block;
 }
 
 .nav ul li .active {
-    background-color: #e67300;
+    background-color: #f2f2f2;
 }
 
 .nav ul li {
@@ -100,7 +101,7 @@ section {
 }
 
 .logo-container {
-    background-color: #80ff80;
+    background-color: #d9d9d9;
     height: 120px;
     width: 60%;
     float: left;
@@ -109,7 +110,7 @@ section {
     border-radius: 6px;
 }
 
-.header-stripe-black {
+.header-stripe-one {
     width: 22px;
     height: 120px;
     -webkit-transform: skew(20deg);
@@ -121,25 +122,25 @@ section {
     border-bottom: 2px solid black;
 }
 
-.header-stripe-red {
+.header-stripe-two {
     width: 20px;
     height: 120px;
     -webkit-transform: skew(20deg);
     -moz-transform: skew(20deg);
     -o-transform: skew(20deg);
-    background: #D13D3D;
+    background: #4d4d4d;
     float: left;
     border-top: 2px solid black;
     border-bottom: 2px solid black;
 }
 
-.header-stripe-gold {
+.header-stripe-three {
     width: 20px;
     height: 120px;
     -webkit-transform: skew(20deg);
     -moz-transform: skew(20deg);
     -o-transform: skew(20deg);
-    background: #E3A209;
+    background: #737373;
     float: left;
     border-top: 2px solid black;
     border-bottom: 2px solid black;
@@ -152,12 +153,12 @@ section {
 }
 
 .content-panel {
-    background-color: #cc8800;
+    background-color: #d9d9d9;
     width: 70%;
     float: left;
     margin: 20px;
     padding: 10px;
-    border: 3px solid #D13D3D;
+    border: 3px solid black;
     border-radius: 6px;
     box-shadow: 5px 5px 2px black;
 }
