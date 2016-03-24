@@ -29,7 +29,7 @@ body {
 }
 
 .nav ul li a:link,
-.nav ul li a:visited {
+a:visited {
     color: black;
     background-color: #bfbfbf;
     border-top: 1px solid black;
@@ -44,7 +44,7 @@ body {
 }
 
 .nav ul li a:hover,
-.nav ul li a:active {
+a:active {
     font-family: "Arial Black", Gadget, sans-serif;
     color: black;
     background-color: #f2f2f2;
@@ -115,7 +115,7 @@ section {
     -webkit-transform: skew(20deg);
     -moz-transform: skew(20deg);
     -o-transform: skew(20deg);
-    background: black;
+    background: #737373;
     float: left;
     border-top: 2px solid black;
     border-bottom: 2px solid black;
@@ -139,7 +139,7 @@ section {
     -webkit-transform: skew(20deg);
     -moz-transform: skew(20deg);
     -o-transform: skew(20deg);
-    background: #737373;
+    background: black;
     float: left;
     border-top: 2px solid black;
     border-bottom: 2px solid black;
@@ -169,6 +169,11 @@ section {
 }
 
 .content-panel h2 {
+    font-size: 20px;
+    font-family: Vandana, Geneva, sans-serif;
+}
+
+.content-panel h3 {
     font-size: 20px;
     font-family: Vandana, Geneva, sans-serif;
 }
@@ -212,4 +217,13 @@ section {
 .image-container img {
     height: 270px;
     margin: 15px;
+}
+table {
+    margin: 30px auto;
+}
+
+td {
+    font-family: Vandana, Geneva, sans-serif;
+    text-align: left;
+    padding-right: 50px;
 }
