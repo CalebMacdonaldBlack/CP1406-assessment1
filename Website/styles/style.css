@@ -6,7 +6,7 @@ header {
 
 body {
     background-image: url("../image/background.png");
-    background-color: #262626;
+    background-color: white;
     background-position: right -300px top;
     background-repeat: no-repeat;
 }
